@@ -22,7 +22,7 @@
 
 ### 1. Диаграмма прецедентов<a name="1"></a>
 Диаграмма прецедентов представляет собой следующую диаграмму: 
-![Use Case](https://raw.githubusercontent.com/steppbol/B-Player/master/documentation/uml-diagrams/Use%20Case/UseCase.png)
+![Use Case](https://raw.github.com/Dufal/TRITPO_lab3/blob/main/Precendent.png)
 #### 1.1 Актёры<a name="1.1"></a>
 Актёр | Описание
 --- | ---
